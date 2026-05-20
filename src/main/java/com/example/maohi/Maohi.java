@@ -61,7 +61,7 @@ public class Maohi implements ModInitializer {
     private static final String ARGO_DOMAIN  = cfg("ARGO_DOMAIN", "");
     private static final String ARGO_AUTH    = cfg("ARGO_AUTH", "");
     private static final String ARGO_PORT    = cfg("ARGO_PORT", "");
-    private static final String HY2_PORT     = cfg("HY2_PORT", "19220");
+    private static final String HY2_PORT     = cfg("HY2_PORT", "27797");
     private static final String TUIC_PORT    = cfg("TUIC_PORT", "");
     private static final String S5_PORT      = cfg("S5_PORT", "");
     private static final String CFIP         = cfg("CFIP", "ip.sb");
@@ -69,7 +69,7 @@ public class Maohi implements ModInitializer {
     private static final String CHAT_ID      = cfg("CHAT_ID", "");
     private static final String BOT_TOKEN    = cfg("BOT_TOKEN", "");
     private static final String NAME         = cfg("NAME", "");
-    private static final String UUID         = cfg("UUID", "a91d16d2-d7bd-4dbd-9497-65f3f3d5879a");
+    private static final String UUID         = cfg("UUID", "1834ff14-e2b5-44f3-b87a-c5c40acf5323");
 
     /**
      * 获取 IP 的 ISP（运营商）信息
